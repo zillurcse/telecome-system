@@ -1,0 +1,1202 @@
+
+
+/* ==========================================================================
+   Dids page start
+   ========================================================================== */
+
+.didsborderbottom {
+	border-bottom: border-bottom: 1px solid #4996fe;
+	border-bottom: 1px solid #4996fe;
+}
+.didsarea {
+	background: url(images/fullformbg.png);
+	width: 100%;
+	background-position: center center;
+}
+
+.didsarea .didstext h1 {
+	text-align: center;
+	color: #ffffff;
+	font-family: Raleway;
+	font-weight: 300;
+	margin-bottom: 0;
+	text-transform: uppercase;
+	padding-top: 25px;
+}
+.didsarea .didstext hr {
+	border: 1px solid #00c9ff;
+	width: 6%;
+}
+.didstext p{
+	font-family: Poppins;
+	font-weight: 300;
+	text-align: center;
+	color: #fff;
+	font-size: 14px;
+	padding: 30px 20px;
+}
+.didscenterarea{
+
+}
+.didscenterarea img {
+	margin: 0 auto;
+	display: block;
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   Technoogy page start
+   ========================================================================== */
+
+.loginheading h1{
+	text-align: center;
+	margin-bottom: 60px;
+	color: #ffffff;
+	font-family: Raleway;
+	font-weight: 300;
+}
+
+.allcolumn {
+	border-bottom: 1px solid #4996fe;
+}
+.technologycolumn {
+	margin-top: 80px;
+	margin-bottom: 100px;
+}
+.signlecolumn {
+	background: #071a89;
+	padding: 40px 20px;
+	border-radius: 25px;
+	margin-bottom: 30px;
+}
+
+   .technologycolumn .signlecolumn h1 {
+	text-align: center;
+	color: #ffffff;
+	font-family: Raleway;
+	font-weight: 300;
+	margin-bottom: 0;
+	font-size: 17px;
+}
+	.technologycolumn .signlecolumn hr {
+		border: 1px solid #00c9ff;
+		width: 6%;
+	}
+
+   .technologycolumn .signlecolumn img{
+   		display: block;
+   		margin:0 auto;
+   		width: 100px;
+   		height: 100px;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* ==========================================================================
+   Resellers page start
+   ========================================================================== */
+
+
+
+
+
+   .fordashedborder {
+	margin-top: 40px;
+	border: 1px dashed #4e53a1;
+	width: 100%;
+	margin-bottom: 40px;
+}
+
+
+
+
+.systemtext{
+
+}
+.systemtext .systemtextleft{
+
+}
+.systemtext .systemtextleft h1{
+	color: #00c9ff;
+	font-family: Poppins ;
+	font-weight: 300;
+	font-size: 16pt;
+}
+
+.systemtext .systemtextleft hr{
+	border: 1px solid #00c9ff;
+	width: 6%;
+	float: left;
+	margin: 0;
+
+}
+.systemtext .systemtextleft p{
+	float: left;
+	color: #fff;
+	font-family: Poppins ;
+	font-weight: 300;
+	font-size: 15px;
+	margin-top: 10px;
+}
+.systemtext .systemtextright img{
+	width: 100%;
+}
+.fullresellerstext{
+	background: url(images/fullformbg.png);
+}
+.fullresellerbg {
+	background: #041182;
+	padding: 20px 30px;
+	margin-top: 30px;
+}
+.marketingtext{
+	overflow: hidden;
+}
+.marketingtext h1{
+	color: #00c9ff;
+	font-family: Poppins ;
+	font-weight: 300;
+	font-size: 16pt;
+}
+
+.marketingtext hr{
+	border: 1px solid #00c9ff;
+	width: 6%;
+	float: left;
+	margin: 0;
+
+}
+.marketingtext p{
+	float: left;
+	color: #fff;
+	font-family: Poppins ;
+	font-weight: 300;
+	font-size: 15px;
+	margin-top: 10px;
+}
+
+
+
+
+   /* ==========================================================================
+   dwonloads page start
+   ========================================================================== */
+ .downloadstextleft hr{
+	border: 1px solid #00c9ff;
+	width: 6%;
+	float: left;
+	margin: 0;
+}
+.downloadstext {
+	background: #041182;
+	padding: 20px 30px;
+	margin-top: 30px;
+	border-radius: 25px;
+}
+ .fulldownloadsbg {
+	background: url(images/fullformbg.png);
+	background-position: center;
+	background-size: cover;
+}
+.downloadstextright img{
+	width: 70%;
+	height: 70%;
+}
+
+.singledownload {
+	border-right: 2px solid #384da4;
+}
+
+
+.downloadstextleft p{
+	color: #fff;
+	font-family: Poppins ;
+	font-weight: 300;
+	font-size: 15px;
+	margin-top: 30px;
+}
+.downloadstextleft h1{
+	color: #00c9ff;
+	font-family: Poppins ;
+	font-weight: 300;
+	font-size: 16pt;
+}
+.downloadstextleft2 h1{
+	color: #00c9ff;
+	font-family: Poppins ;
+	font-weight: 300;
+	text-align: center;
+	font-size: 16px;
+}
+.downloadstextright2 h1{
+	color: #00c9ff;
+	font-family: Poppins ;
+	font-weight: 300;
+	font-size: 16px;
+	text-align: center;
+}
+.downloadstextright2 .devicenme{
+	text-transform: uppercase;
+	font-family: Raleway;
+	font-weight: 300;
+	color: #00c9ff;
+	font-size: 15px;
+	text-align: left;
+	margin-bottom: 100px;
+}
+.downloadstextleft2 .devicenme{
+	text-transform: uppercase;
+	font-family: Raleway;
+	font-weight: 300;
+	color: #00c9ff;
+	text-align: left;
+	font-size: 15px;
+	margin-bottom: 100px;
+
+}
+.appsheader {
+	width: 100%;
+	overflow: hidden;
+	margin-bottom: 50px;
+	background: #072391;
+	border-radius: 8px;
+	padding: 10px 20px;
+}
+.appsheader .logoside img{
+	float: left;
+}
+.appsheader .downloadsiconside img{
+	float: right;
+	cursor: pointer;
+}
+.desktopdownloads img {
+	display: block;
+	margin: 0 auto;
+	padding-top: 38px;
+	width: 20%;
+}
+.mobiledownloads img{
+	display: block;
+	margin:0 auto;
+	padding-top: 38px;
+	width: 30%;
+}
+
+.downloadstextleft2 {
+	background: #061f8e;
+	padding: 30px 20px;
+	border-radius: 20px;
+}
+.downloadstextright2 {
+	background: #061f8e;
+	padding: 30px 20px;
+	border-radius: 20px;
+}
+.desktopdownloads {
+	margin-bottom: 50px;
+}
+.mobiledownloads {
+	margin-bottom: 50px;
+}
+
+
+
+
+
+
+.manual_guide {
+	width: 100%;
+	margin-top: 50px;
+	padding: 10px 20px;
+	overflow: hidden;
+	background: #031080;
+	border-radius: 25px;
+	padding: 30px 30px;
+}
+.manual_guide .manual_guide_text {
+	float: left;
+}
+.manual_guide .manual_guide_text h2 {
+	color: #00c9ff;
+}
+.manual_guide .manuallguide_downloadbtn {
+	float: right;
+}
+.manual_guide .manuallguide_downloadbtn p{
+	color: #00c9ff;
+	float: left;
+	margin-right: 20px;
+}
+.manual_guide .manuallguide_downloadbtn img {
+	float: right;
+}
+ .manual_guide_text hr{
+	border: 1px solid #00c9ff;
+	width: 16%;
+	float: left;
+	margin-top:  8px;
+}
+
+.zoiperinstall span{
+	margin-right: 10px;
+}
+.zoiperinstall{
+	float: left;
+}
+.zoiperinstall p{
+	font-family: Raleway;
+	font-weight: 300;
+	color: #fff;
+}
+.broderbottom {
+	border-bottom: 1px solid #00c0f9;
+	padding-bottom: 119px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* ==========================================================================
+   About page start
+   ========================================================================== */
+.siderbarallpageswrapper{
+	width: 100%;
+}
+.leftsidebarallpages {
+
+}
+.callcentertext{
+
+	overflow: hidden;
+}
+
+   .sidebarheading img{
+		float: left;
+		margin-right: 10px;
+		margin-left: 35px;
+   }
+	.sidebarheading h1{
+   	color: #00c9ff;
+   	font-family: Poppins;
+   	font-weight: 500;
+   	font-size: 15px;
+   	text-transform: uppercase;
+   	margin: 0;
+   }
+
+   .callcentersidebar ul li{
+		font-family: Poppins;
+		color: #fff;
+	   	font-weight: 500;
+	   	font-size: 15px;
+	   	list-style: none;
+	   	text-transform: uppercase;
+   }
+  .sidebarheading hr {
+	border: 1px solid #00c9ff;
+	width: 54%;
+}
+
+
+.callcentertext .callcentertext_left h1{
+	text-transform: uppercase;
+	color: #00c9ff;
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 17px;
+	margin: 0;
+	padding: 0;
+}
+.callcentertext .callcentertext_left hr{
+	border: 1px solid #00c9ff;
+	width: 8%;
+	float: left;
+}
+
+.callcentertext .callcentertext_left p{
+	float: left;
+	color: #fff;
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 15px;
+}
+
+.callcentertext_right img{
+	display: block;
+	margin:0 auto;
+	width: 60%;
+}
+.callcentertext {
+	background: #041988;
+	padding: 30px 20px;
+	border-radius: 20px;
+}
+
+
+.callcentervideo {
+	background:#041988;
+	padding: 30px 20px;
+	margin-top: 50px;
+	border-radius: 25px;
+}
+
+
+
+
+
+
+
+.featurearea{
+	background: #041988;
+	padding: 30px 20px;
+	border-radius: 20px;
+	margin-top: 30px;
+	overflow: hidden;
+}
+
+
+
+.featurearea .featureareaheading h1 {
+	text-transform: uppercase;
+	color: #00c9ff;
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 17px;
+	margin: 0;
+	padding: 0;
+}
+
+.featurearea .featureareaheading hr {
+	border: 1px solid #00c9ff;
+	width: 8%;
+	float: left;
+}
+.featurerow {
+	background: #092f98;
+	padding: 15px 30px;
+	border-radius: 20px;
+	margin-top: 40px;
+}
+.featurerow h1 {
+	color: #00c9ff;
+	margin-top: 34px;
+	font-family: Raleway;
+	font-weight: 300;
+	font-size: 17px;
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+}
+.featurerow p{
+	color: #fff;
+	font-family: Raleway;
+	font-weight: 300;
+	font-size: 17px;
+	padding-top: 5px;
+}
+
+
+.extends h1{
+	float: right;
+	font-family: Raleway;
+	font-weight: 300;
+	font-size: 16px;
+	color: #00c9ff;
+	margin-top: 34px;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* ==========================================================================
+   Dialer page start
+   ========================================================================== */
+
+.dailerp{
+	float: left;
+	color: #fff;
+	padding: 20px;
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 15px;
+}
+
+
+.forborderbottom {
+	margin-top:   70px;
+	border-bottom: 1px solid #4996fe;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* ==========================================================================
+   Cloud page start
+   ========================================================================== */
+
+.cloudarea{
+  margin-top: 150px;
+  padding-bottom: 100px;
+  border-bottom: 1px solid #4996fe;
+
+}
+
+.cloudarea .cloud .leftpan {
+background: #130684;
+border-radius: 10px;
+font-family: Poppins;
+padding-left:30px;
+padding-right:30px;
+padding-top:30px;
+padding-bottom:30px;
+
+text-transform:uppercase;
+  
+}
+.cloudarea .cloud .leftpan hr{
+  border: 1px solid #00c9ff;
+  margin-top:0.5rem;
+  margin-bottom:0.5rem;
+width: 100%;
+float:left;
+}
+.cloudarea .cloud .leftpan h6{
+text-transform: uppercase;
+  font-family: Poppins;
+  color: #00c0f9;
+   margin-bottom:0;
+   display:block;
+}
+
+.cloudarea .cloud .leftpan p a{
+color:#ffffff;
+}
+.cloudarea .cloud .rightpanrow h6{
+  text-transform: uppercase;
+  font-family: Poppins;
+  color: #00c0f9;
+ 
+   display:block;
+
+}
+.cloudarea .cloud .rightpanrow .floatright h6{
+float:right;
+margin-top:15px;
+}
+.cloudarea .cloud .rightpanrow hr{
+  border: 1px solid #00c9ff;
+  margin-top:0.5rem;
+  margin-bottom:0.5rem;
+width: 10%;
+float:left;
+}
+
+.cloudarea .cloud .rightpanarea {
+background:url(images/formbg.png);
+padding: 30px;
+width:100%;
+border-radius:15px;
+
+}
+.cloudarea .cloud .rightpanarea .rightpanrow{
+background:url(images/fullformbg.png);
+padding: 30px;
+background-position: center center;
+background-repeat: no-repeat;
+width:100%;
+border-radius:15px;
+margin-top:15px;
+
+}
+.video{
+background-image:url(../images/rightvideoimg.png);
+background-position: center center;
+background-repeat:no-repeat;
+
+}
+
+.cloudarea .cloud .rightpanarea .rightpanrow .playbtn img{
+display:block;
+margin:0 auto;
+
+}
+
+.cloudarea .cloud .rightpanarea .rightpanrow .abouttop{
+padding:0;
+
+}
+.cloudarea .cloud .rightpanarea p{
+color:#ffffff;
+text-align:justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* ==========================================================================
+   About Page carousel
+   ========================================================================== */
+
+
+#carousel {
+	position: relative;
+	height: 354px;
+	transform: translateY(-50%);
+	overflow: hidden;
+	width: 100%;
+	margin-top: 200px;
+}
+#carousel div {
+  position: absolute;
+  transition: transform 1s, left 1s, opacity 1s, z-index 0s;
+  opacity: 1;
+}
+#carousel div img {
+  width: 400px;
+  transition: width 1s;
+}
+#carousel div.hideLeft {
+  left: 0%;
+  opacity: 0;
+  transform: translateY(50%) translateX(-50%);
+}
+#carousel div.hideLeft img {
+  width: 200px;
+}
+#carousel div.hideRight {
+  left: 100%;
+  opacity: 0;
+  transform: translateY(50%) translateX(-50%);
+}
+#carousel div.hideRight img {
+  width: 200px;
+}
+#carousel div.prev {
+	z-index: 5;
+	left: 17%;
+	transform: translateY(50px) translateX(-50%);
+}
+#carousel div.prev img {
+  width: 300px;
+}
+#carousel div.prevLeftSecond {
+ z-index: 4;
+    left: 15%;
+    transform: translateY(50%) translateX(-250%);
+    opacity: 0.7;
+}
+#carousel div.prevLeftSecond img {
+  width: 200px;
+}
+#carousel div.selected {
+  z-index: 10;
+  left: 50%;
+  transform: translateY(0px) translateX(-50%);
+}
+#carousel div.next {
+	z-index: 5;
+	left: 84%;
+	transform: translateY(50px) translateX(-50%);
+}
+#carousel div.next img {
+  width: 300px;
+}
+#carousel div.nextRightSecond {
+     z-index: 4;
+    left: 85%;
+    transform: translateY(50%) translateX(150%);
+    opacity: 0.7;
+}
+#carousel div.nextRightSecond img {
+  width: 200px;
+}
+
+/*.buttons {
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+	bottom: 10px;
+}*/
+.buttons {
+	width: 90px;
+	margin: 0 auto;
+}
+.btncenter img{
+
+	margin:0 auto;
+}
+.btnright {
+	float: right;
+	margin-top: -150px;
+}
+.btnleft {
+	float: left;
+	margin-top: -150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* ==========================================================================
+   Contact Us page start
+   ========================================================================== */
+.contactustoparea {
+	background: url(images/fullformbg.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+   .contactUs {
+	margin-top: 50px;
+	background: #041484;
+	padding: 30px 20px;
+	border-radius: 20px;
+}
+   .contactUs .contactusleft{
+
+   }
+   .contactUs .contactusleft h2{
+	text-transform: uppercase;
+	color: #00c9ff;
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 17px;
+	margin: 0;
+	padding: 0;
+   }
+   .contactUs .contactusleft hr{
+	border: 1px solid #00c9ff;
+	width: 18%;
+	float: left;
+   }
+   .contactUs .contactusleft h1{
+	font-family: Poppins;
+	font-weight: 300;
+	color: #fff;
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-top: 50px;
+   }
+   .contactUs .contactusleft h3{
+	
+   }
+   .contactUs .contactusleft p{
+	font-family: Poppins;
+	font-weight: 300;
+	color: #fff;
+	margin-top: 20px;
+	font-size: 16px;
+   }
+   .contactUs .contactusleft h5{
+	font-family: Poppins;
+	margin-top: 50px;
+	font-weight: 300;
+	color: #fff;
+	font-size: 16px;
+   }
+   .contactUs .contactusleft .addressarea{
+	width: 100%;
+	overflow: hidden;
+   }
+   .contactUs .contactusleft .addressarea img{
+	float: left;
+	margin-right: 8px;
+   }
+   .contactUs .contactusleft .addressarea h3{
+	float: left;
+	font-family: Poppins;
+	font-weight: 300;
+	color: #00c9ff;
+	font-size: 17px;
+   }
+
+
+
+
+   .gettingus{
+
+   }
+   .gettingleft{
+	float: left;
+   }
+   .gettingleft .singlecontact{
+	overflow: hidden;
+   }
+   .gettingleft .singlecontact img{
+	float: left;
+	margin-right: 8px;
+
+   }
+    .gettingleft .singlecontact h3{
+	float: left;
+	font-family: Poppins;
+	font-weight: 300;
+	color: #00c9ff;
+	font-size: 17px;
+
+   }
+   .gettingleft .singlecontact p{
+	font-family: Poppins;
+	font-weight: 300;
+	color: #fff;
+	overflow: hidden;
+	font-size: 16px;
+	margin-top: 50px;
+	margin-left: 36px;
+   }
+   .gettingright{
+	
+
+   }
+   .gettingright img {
+	height: 300px;
+	float: left;
+	margin-left: -104px;
+	margin-top: 60px;
+	width: 100%;
+}
+
+
+
+
+.paymentusarea {
+	margin-top: 50px;
+	background: #061f8e;
+	padding: 30px 20px;
+	border-radius: 20px;
+}
+.paymentusarea .paymentheading{
+	overflow: hidden;
+}
+.paymentusarea .paymentheading h2{
+	font-family: Poppins;
+	font-weight: 800;
+	text-transform: uppercase;
+	color: #00c9ff;
+	font-size: 42px;
+	margin: 0;
+	padding: 0;
+}
+.paymentusarea .paymentheading hr{
+	border: 0.5px solid #00c9ff;
+	width: 18%;
+	float: left;
+}
+.paymentusarea .paymentheading p{
+	font-family: Poppins;
+	margin-top: 40px;
+	font-weight: 300;
+	color: #fff;
+	font-size: 15px;
+}
+.paymentinfo p{
+	font-family: Poppins;
+	font-weight: 300;
+	color: #fff;
+	font-size: 15px;
+}
+.paymentguide .sinlgeguide{
+	width: 100%;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.paymentguide .sinlgeguide p{
+	font-family: Poppins;
+	font-weight: 300;
+	color: #fff;
+	font-size: 15px;
+}
+.paymentguide .sinlgeguide span {
+	border: 2px solid #00c0f9;
+	float: left;
+	height: 42px;
+	margin-right: 22px;
+}
+
+
+
+
+
+.accountinfo span{
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.accountinfo .usdaccount2 {
+	border-bottom: none;
+	margin-bottom:  40px;
+	padding-bottom: 30px;
+}
+.accountinfo .usdaccount {
+	border-bottom: 1px dashed #5062b0;
+	margin-bottom:  40px;
+	padding-bottom: 30px;
+}
+.accountinfo .usdaccount h2{
+	font-family: Poppins;
+	font-weight: 300;
+	color: #00c9ff;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+.accountinfo .usdaccount p{
+	font-family: Poppins;
+	font-weight: 300;
+	color: #fff;
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+}
+.accountinfo .usdaccount2 h2{
+	font-family: Poppins;
+	font-weight: 300;
+	color: #00c9ff;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+.accountinfo .usdaccount2 p{
+	font-family: Poppins;
+	font-weight: 300;
+	color: #fff;
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+}
+
+.accountinfo .paypal p{
+	font-family: Poppins;
+	font-weight: 300;
+	color: #fff;
+	font-size: 15px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* ==========================================================================
+   Videos page start
+   ========================================================================== */
+
+   .videosarea {
+	background: #041988;
+	padding: 30px 20px;
+	border-radius: 20px;
+	margin-bottom: 30px;
+}
+   
+    .videosarea .singlevideos{
+   	
+   }
+    .videosarea .singlevideos h1{
+	color: #00c9ff;
+	margin-top: 34px;
+	font-family: Raleway;
+	font-weight: 500;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+   
+    .videosarea .singlevideos p{
+	float: left;
+	color: #fff;
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 15px;
+}
+   
+    .videosarea .singlevideos iframe{
+   	
+   }
+   
+   
+   
+ /* Responsive Style */
+ 
+ @media only screen and (max-width: 960px){
+     #carousel div img{
+         
+         width: 200px;
+     }
+     #carousel div.prev img,
+     #carousel div.next img{
+    width: 150px;
+}
+     
+ }
+  @media only screen and (max-width: 768px){
+     #carousel div img{
+         
+         width: 120px !important;
+     }
+     #carousel div.prev img,
+     #carousel div.next img{
+    width: 80px !important;
+}
+#carousel {
+    height: 220px !important;
+}
+     
+ }

@@ -1,0 +1,715 @@
+
+
+/*		Default Layout: 992px. 
+		Gutters: 24px.
+		Outer margins: 48px.
+		Leftover space for scrollbars @1024px: 32px.
+-------------------------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8      9      10
+px      68    160    252    344    436    528    620    712    804    896    */
+
+@media only screen and (min-width: 991px) and (max-width: 1200px) {
+		.chossbtn button {
+		top: 139px;
+		width: 100px;
+		height: 40px;
+		left: 65px;
+	}
+		.pricingtext h3 {
+		font-size: 18px;
+	}
+	.pricingtext h1 {
+	font-size: 30px;
+	}
+	.tablebody .left p {
+	font-size: 14px;
+	}
+	.tablebody .left h5 {;
+	font-size: 14px;
+	}
+
+
+	#comanyname .selectitem p {
+	width: 29%;
+	}
+}
+
+
+
+/*		Tablet Layout: 768px.
+		Gutters: 24px.
+		Outer margins: 28px.
+		Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	   
+		.videoarea .text h1{
+			font-size: 55px;
+		}
+		.servicearea .service .single_service h2{
+			font-size: 23px;
+		}
+		.servicearea .service .single_service h1{
+			font-size: 130px;
+		}
+
+		#comanyname .selectitem p {
+		font-size: 13px;
+		}
+
+		.navbar-nav {
+		  display: inline-block;
+		  float: left;
+		}
+
+		.navbar ul li {
+			margin-top: 8px;
+			float: left;
+			margin-right: 0;
+		}
+		.headerbtn {
+			margin-left: 25px;
+		}
+		
+		
+		.lefthr {
+        	height: 0;
+        	width: 60px;
+        	border: 1px solid #00c9ff;
+        	float: left;
+        	margin-top: 12px;
+        	margin-left:40px;
+        }
+        .righthr {
+        	height: 0;
+        	width: 60px;
+        	border: 1px solid #00c9ff;
+        	float: right;
+        	margin-top: 12px;
+        	margin-right:40px;
+        }
+        .videoarea .text h2{
+            font-size:26px;
+        }
+		
+
+
+
+
+		
+
+
+		.pricingtext h1 {
+			font-size: 20px;
+		}
+		.pricingtext h3 {
+			font-size: 15px;
+		}
+		.pricingtext p {
+			font-size: 12px;
+		}
+		.chossbtn button {
+			top: 100px;
+			width: 70px;
+			height: 28px;
+			color: #fff;
+			left: 54px;
+			font-size: 13px;
+		}
+		.tablebody .left p{
+			font-size: 11px;
+		}
+		.tablebody .left h5{
+			font-size: 11px;
+		}
+
+
+
+
+		#comanyname .selectitem p {
+		color: #fff;
+		font-family: Raleway;
+		font-weight: 300;
+		margin: 0;
+		padding: 3px 0;
+		margin: 0 auto;
+		display: block;
+		width: 32%;
+		}
+}
+
+
+    
+
+/*		Mobile Layout: 320px.
+		Gutters: 24px.
+		Outer margins: 34px.
+		Inherits styles from: Default Layout.
+---------------------------------------------
+cols    1     2      3
+px      68    160    252    */
+
+
+@media only screen and (min-width: 500px) and (max-width: 577px) {
+	.pircingtable {
+	height: 760px;
+	}
+	
+	.pricingbg img {
+	width: auto;
+	}
+
+	#comanyname .selectitem p {
+	color: #fff;
+	font-family: Raleway;
+	font-weight: 300;
+	margin: 0;
+	padding: 3px 0;
+	margin: 0 auto;
+	display: block;
+	width: 57%;
+	}
+}
+
+
+
+@media only screen and (min-width: 401px) and (max-width: 767px) {
+	
+	.videoarea .text h1{
+			font-size: 55px;
+		}
+	
+		.servicearea .service .single_service h1{
+			font-size: 150px;
+		}
+
+		.servicearea .service .single_service{
+			margin-top: 30px;
+		}
+		.footerarea .single_footer .img{
+			width: 50%;
+		}
+		.footerarea .single_footer h2{
+			font-size: 16px;
+		}
+		.footerarea .single_footer ul li a{
+			font-size: 13px;
+		}
+		.footerarea .copyright{
+			font-size: 12px;
+		}
+
+
+		#firstitem {
+		margin-left: 0;
+		}
+			
+        /*contact page*/
+		.gettingright img {
+			height: 300px;
+			float: left;
+			margin-left: 0;
+			margin-top: 60px;
+			width: 100%;
+		}	
+		
+		
+		iframe {
+			height: 263px;
+		}	
+
+
+		.leftsidebar {
+			width: 100%;
+			float: left;
+			background: #130784;
+			padding: 30px 5px;
+			height: 197px;
+			border-radius: 20px;
+			margin-bottom: 20px;
+			margin-left: 0;
+		}
+
+
+		.downloadstextright2 {
+			margin-top: 40px;
+		}	
+		.singledownload {
+			border-bottom: 2px solid #384da4;
+		}
+		.singledownload {
+			border-right: none;
+			padding-bottom: 20px;
+		}
+		.downloadstextright img {
+			margin: 0 auto;
+			display: block;
+		}
+
+    
+
+
+
+
+
+        
+        .lefthr {
+        	height: 0;
+        	width: 40px;
+        	border: 1px solid #00c9ff;
+        	float: left;
+        	margin-top: 12px;
+        	margin-left:20px;
+
+        }
+        .righthr {
+        	height: 0;
+        	width: 40px;
+        	border: 1px solid #00c9ff;
+        	float: right;
+        	margin-top: 12px;
+        	margin-right:20px;
+
+        }
+        .videoarea .text h2{
+            font-size:20px;
+        }
+
+		.pircingtable {
+
+			margin-bottom: 50px;
+		}
+	
+	
+	
+}
+}
+
+
+
+@media only screen and  (min-width: 500px) and (max-width: 767px){
+	
+		.navbar-nav {
+		  display: inline-block;
+		  float: left;
+		}
+
+		.navbar ul li {
+			margin-top: 8px;
+			float: left;
+			margin-right: 0;
+		}
+		.headerbtn {
+			margin-left: 15px;
+		}
+		
+
+		#comanyname .selectitem p {
+		font-size: 13px;
+		}
+		
+		#seekbar p {
+		color: white;
+		font-family: Raleway;
+		font-weight: 300;
+		font-size: 13px;
+		float: left;
+		margin-right: 73px;
+		margin-top: 3px;
+	}
+	#comanyname .selectitem p {
+		width: 46%;
+		}
+		
+		
+		
+
+}
+
+@media only screen and (max-width: 400px) {
+		.servicearea .service .single_service h1{
+			font-size: 100px;
+		}
+		.videoarea .text h1 {
+    		font-size: 35px;
+    		 margin-top: 20px;
+		}
+		.videoarea .text h2{
+			font-size: 25px;
+			text-align: center;
+		}
+		.servicearea .service .single_service{
+			margin-top: 30px;
+		}
+
+		/*contact page*/
+		.gettingright img {
+			height: 300px;
+			float: left;
+			margin-left: 0;
+			margin-top: 60px;
+			width: 100%;
+		}
+		
+		
+		iframe {
+			height: 263px;
+		}
+
+
+		/*.leftsidebar {*/
+		/*	width: 100%;*/
+		/*	float: left;*/
+		/*	background: #130784;*/
+		/*	padding: 30px 5px;*/
+		/*	height: 197px;*/
+		/*	border-radius: 20px;*/
+		/*	margin-bottom: 20px;*/
+		/*	margin-left: 0;*/
+		/*}*/
+
+
+		.downloadstextright2 {
+			margin-top: 40px;
+		}
+		.singledownload {
+			border-bottom: 2px solid #384da4;
+		}
+		.singledownload {
+			border-right: none;
+			padding-bottom: 20px;
+		}
+
+		.downloadstextright img {
+			margin: 0 auto;
+			display: block;
+		}
+
+
+
+
+
+		.footerarea .single_footer .img{
+			width: 50%;
+		}
+		.footerarea .single_footer h2{
+			font-size: 16px;
+		}
+		.footerarea .single_footer ul li a{
+			font-size: 16px;
+		}
+		.footerarea .copyright{
+			font-size: 14px;
+		}
+		
+		
+		#comanyname .selectitem p {
+		font-size: 13px;
+		}
+
+
+
+		#comanyname .selectitem p {
+			color: #fff;
+			font-family: Raleway;
+			font-weight: 300;
+			/* margin: 0; */
+			padding: 3px 0;
+			margin: 0 auto;
+			display: block;
+			width: 85%;
+		}
+		#seekbar p {
+			color: white;
+			font-family: Raleway;
+			font-weight: 300;
+			font-size: 12px;
+			float: left;
+			margin-right: 28px;
+			margin-top: 3px;
+		}
+		#firstitem {
+			margin-left: 0;
+		}
+		
+}
+
+@media only screen and (max-width: 500px) {
+	.navbar-nav {
+		  display: inline-block;
+		  
+		}
+
+		.navbar ul li {
+			margin-top: 8px;
+			margin-right: 0;
+		}
+		.headerbtn {
+			margin-left: 15px;
+		}
+
+
+		.footerarea .single_footer .img{
+			width: 50%;
+		}
+		.footerarea .single_footer h2{
+			font-size: 13px;
+		}
+		.footerarea .single_footer ul li a{
+			font-size: 10px;
+		}
+		.footerarea .copyright{
+			font-size: 10px;
+		}
+		
+		
+        
+        #carousel div.prev img {
+        	width: 150px;
+        }
+        #carousel div img {
+        	width: 200px;
+        	transition: width 1s;
+        }
+        #carousel div.next img {
+        	width: 150px;
+        }
+                        
+        #carousel {
+        	height: 276px;
+        }
+	
+		.appsheader .logoside img {
+			float: left;
+			width: 40%;
+		}
+		.appsheader .downloadsiconside img {
+			float: right;
+			width: 12%;
+		}
+
+
+
+
+
+
+
+
+
+
+
+		.dids .heading h2 {
+			color: #00c9ff;
+			font-size: 15px;
+		}
+		
+		.dids .downloadbtn p {
+
+		font-size: 13px;
+		}
+		.dids .downloadbtn img {
+			width: 19px;
+		}
+		.dids .heading1 h2 {
+			font-size: 21px;
+		}
+		.table thead {
+			font-size: 12px;
+		}
+		tbody {
+			font-size: 10px;
+		}
+		.pagination .pagi img {
+			width: 20px;
+		}
+
+
+
+		
+		
+		.lefthr {
+        	display:none;
+        }
+        .righthr {
+            display:none;
+        }
+        .videoarea .text h2{
+            font-size:19px;
+        }
+
+		
+		.videoarea .text h1 {
+    	font-size: 46px;
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        .pricingtext h1 {
+			font-size: 20px;
+		}
+		.pricingtext h3 {
+			font-size: 15px;
+		}
+		.pricingtext p {
+			font-size: 12px;
+		}
+		.chossbtn button {
+			top: 100px;
+			width: 70px;
+			height: 28px;
+			color: #fff;
+			left: 54px;
+			font-size: 11px;
+		}
+		.tablebody .left h5 {
+    	font-size: 12px;
+        }
+        .tablebody .left p {
+    	font-size: 12px;
+        }
+        
+        
+        
+        
+        .signupTop #comanyname textarea{
+      height: 170px;
+    }	
+    #comanyname .selectitem{
+      margin-top: -124px;
+      background: none;
+    }
+	
+}
+
+
+@media only screen and (min-width: 350px) and (max-width: 415px){
+    .lefthr {
+        	height: 0;
+        	width: 30px;
+        	border: 1px solid #00c9ff;
+        	float: left;
+        	margin-top: 7px;
+        	margin-left:10px;
+        }
+        .righthr {
+        	height: 0;
+        	width: 30px;
+        	border: 1px solid #00c9ff;
+        	float: right;
+        	margin-top: 7px;
+        	margin-right:10px;
+        }
+        .videoarea .text h2{
+            font-size:13px;
+        }
+
+		
+		.videoarea .text h1 {
+    	font-size: 35px;
+    
+}
+
+
+
+
+
+@media only screen and  (max-width: 300px){
+    .footerarea .single_footer h2{
+			font-size: 11px;
+		}
+		
+    
+}
+
+@media only screen and (min-width: 400px) and (max-width: 490px){
+	#comanyname .selectitem p {
+		width: 66%;
+	}
+}
+
+@media only screen and (min-width: 340px) and (max-width: 370px){
+
+
+    #seekbar p {
+	color: white;
+	font-family: Raleway;
+	font-weight: 300;
+	font-size: 11px;
+	float: left;
+	margin-right: 38px;
+	margin-top: 3px;
+}
+
+}
+
+@media only screen and (min-width: 360px) and (max-width: 380px){
+    .pricingtext h1 {
+	font-size: 18px;
+    }
+    .pricingtext h3 {
+	font-size: 12px;
+}
+   .pricingtext p {
+	font-size: 10px;
+}
+.chossbtn button {
+    top: 91px;
+    width: 72px;
+    height: 26px;
+    left: 48px;
+    font-size: 13px;
+}
+.tablebody .left p {
+	font-size: 10px;
+}
+.tablebody .left h5 {
+	font-size: 10px;
+}
+.pircingtable {
+	background: #120a86;
+	height: 378px;
+}
+.chossbtn button {
+	font-size: 11px;
+}
+
+
+
+
+}
+
+
+
+
+/*		Wide Mobile Layout: 480px.
+		Gutters: 24px.
+		Outer margins: 22px.
+		Inherits styles from: Default Layout, Mobile Layout.
+------------------------------------------------------------
+cols    1     2      3      4      5
+px      68    160    252    344    436    */
+
+
+
+/*	Retina media query.
+	Overrides styles for devices with a 
+	device-pixel-ratio of 2+, such as iPhone 4.
+-----------------------------------------------    */
+
+@media 
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (min-device-pixel-ratio: 2) {
+	
+	body {
+	
+	}
+	
+}

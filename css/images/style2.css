@@ -1,0 +1,30 @@
+
+
+/* ==========================================================================
+   Dids page start
+   ========================================================================== */
+
+
+.didsarea .didstext h1 {
+	text-align: center;
+	color: #ffffff;
+	font-family: Raleway;
+	font-weight: 300;
+	margin-bottom: 0;
+	text-transform: uppercase;
+}
+.didsarea .didstext hr {
+	border: 1px solid #00c9ff;
+	width: 6%;
+}
+.didstext p{
+	font-family: Poppins;
+	font-weight: 300;
+	text-align: center;
+}
+.didscenterarea{
+
+}
+.didscenterarea img{
+	margin: 0 auto;
+}

@@ -1,0 +1,1 @@
+<script>location="login.php"</script>
